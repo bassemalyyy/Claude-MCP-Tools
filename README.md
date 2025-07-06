@@ -1,7 +1,14 @@
+
+https://github.com/user-attachments/assets/915ba41f-760f-4ae3-9795-6176b624a1db
 # Claude MCP
 
 This project sets up a desktop application using Claude, integrated with multiple MCP (Message Control Protocol) servers to provide various functionalities such as greeting, file counting, location detection, web searching, weather updates, and time retrieval. Below is a comprehensive guide to setting up and running the project.
 Table of Contents
+
+# Video Demo
+
+https://github.com/user-attachments/assets/a4cc82ea-aad5-4815-a799-5f0c8dca9685
+
 
 # Project Overview
 ## Requirements
@@ -14,7 +21,6 @@ Table of Contents
 - Step 6: Run the Claude Desktop Application
 - MCP Server Details
 - Troubleshooting
-- License
 
 # Project Overview
 The Claude MCP is a Python-based project that integrates with the Claude desktop application to provide a suite of tools accessible via a single interface. The tools are implemented as MCP servers, each handling a specific task:
