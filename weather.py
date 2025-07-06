@@ -4,7 +4,7 @@ import requests
 mcp=FastMCP("WeatherServer")
 
 # Set your OpenWeatherMap API key here
-OPENWEATHERMAP_API_KEY = "c6736c34c166deb2713bd75f4b487470"
+OPENWEATHERMAP_API_KEY = "OPENWEATHERMAP_API_KEY"
 
 @mcp.tool()
 
