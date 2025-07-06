@@ -1,7 +1,6 @@
 # Claude MCP
 
 This project sets up a desktop application using Claude, integrated with multiple MCP (Message Control Protocol) servers to provide various functionalities such as greeting, file counting, location detection, web searching, weather updates, and time retrieval. Below is a comprehensive guide to setting up and running the project.
-Table of Contents
 
 # Video Demo
 
