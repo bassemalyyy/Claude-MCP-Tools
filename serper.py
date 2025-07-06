@@ -6,7 +6,7 @@ import json , datetime
 mcp=FastMCP("SerperServer")
 
 # Set your Serper.dev API key here
-SERPER_API_KEY = "211769b35c417bd23a4e89764cd847827e0d054b"
+SERPER_API_KEY = "SERPER_API_KEY"
 
 @mcp.tool()
 
